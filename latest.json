@@ -1,8 +1,8 @@
 {
-  "version": "0.0.0",
-  "url": "https://github.com/D3trah/alkatresz-importalo/releases/latest",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "size": 0,
-  "released": "2026-08-26",
-  "notes_hu": "Helyorzo: meg nincs kiadas. A kiadasi folyamat irja felul."
+  "version": "0.1.0",
+  "url": "https://github.com/D3trah/alkatresz-importalo/releases/download/v0.1.0/Alkatresz-importalo-Setup-0.1.0.exe",
+  "sha256": "47df2bfba6f94d7cd60e90b55016940f7f75bda9d61822e6b4792fbf104a7056",
+  "size": 214435295,
+  "released": "2026-08-31",
+  "notes_hu": "Alkatrész importáló 0.1.0"
 }
