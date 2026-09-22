@@ -1,8 +1,8 @@
 {
-  "version": "0.1.2",
-  "url": "https://github.com/D3trah/alkatresz-importalo/releases/download/v0.1.2/Alkatresz-importalo-Setup-0.1.2.exe",
-  "sha256": "6d08e07ee60ec5f62d64fe8640ff29b5cbcf60db50a6d8fe2545d3bf0cf1a7d3",
-  "size": 214544224,
-  "released": "2026-09-07",
-  "notes_hu": "Alkatrész importáló 0.1.2"
+  "version": "0.2.0",
+  "url": "https://github.com/D3trah/alkatresz-importalo/releases/download/v0.2.0/Alkatresz-importalo-Setup-0.2.0.exe",
+  "sha256": "20707907502109b3762032a4a8cdbbca825ca257c17fb9ffc2f808023d267530",
+  "size": 218234968,
+  "released": "2026-09-22",
+  "notes_hu": "Alkatrész importáló 0.2.0"
 }
